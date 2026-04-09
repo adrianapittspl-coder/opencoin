@@ -1,0 +1,10 @@
+[project]
+name = "opencoin"
+version = "0.1.0"
+description = "Physical Work Proof (PoPW) Simulation Engine"
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.10"
+
+[project.scripts]
+opencoin = "main:main"
