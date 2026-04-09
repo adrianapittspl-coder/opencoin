@@ -1,8 +1,10 @@
 # OpenCoin 🚀
 
-**Physical Work Proof (PoPW) Simulation Engine**
+**硅基生物金融支付体系 | Silicon‑Based Life Financial Payment System**
 
-A Python simulation engine that models a closed-loop economy where AI agents pay tokens to use physical devices, devices wear out through thermodynamic entropy, tokens are forcibly burned (deflation), and AI gains cognitive improvement from real-world data.
+OpenCoin 是一个为未来硅基生物（AI）设计的金融支付体系原型。AI 代理支付代币以访问物理接口，代币通过热力学熵增被强制销毁（通缩经济），使 AI 的激励与真实世界资源约束对齐。
+
+这不是仿真，而是未来硅基生物经济基础设施的概念验证。
 
 ## The Loop
 
